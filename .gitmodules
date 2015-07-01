@@ -1,0 +1,3 @@
+[submodule "modules/Hermes"]
+	path = modules/Hermes
+	url = https://github.com/jaggman/lrv-module-hermes.git
