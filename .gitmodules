@@ -1,3 +1,6 @@
 [submodule "modules/Hermes"]
 	path = modules/Hermes
 	url = https://github.com/jaggman/lrv-module-hermes.git
+[submodule "modules/Search"]
+	path = modules/Search
+	url = https://github.com/jaggman/lrv-module-search.git
